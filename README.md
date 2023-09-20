@@ -116,7 +116,7 @@ plt.show()
 
 ```
 ## Output:
-![](![image](https://github.com/KameshLeVI/Bayesian-Network/assets/120780633/e88080da-00dc-4155-a58a-93f4c014109d)
-)
+![image](https://github.com/KameshLeVI/Bayesian-Network/assets/120780633/93d86f61-83e9-4905-a328-e421ac859eb8)
+
 ## Result:
    Thus a Bayesian Network is generated using Python
